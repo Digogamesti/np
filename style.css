@@ -1,0 +1,27 @@
+body
+{
+    background-color: cyan;
+}
+
+span
+{
+   font-size: 25px;
+}
+
+#Nsei
+{
+    margin-left: 25px;
+    font-family: Impact;
+}
+
+#ANM
+{
+    margin-right: 100px;
+    float:right;
+    font-family: Impact;
+}
+
+#AMN
+{
+    color: blue;
+}
